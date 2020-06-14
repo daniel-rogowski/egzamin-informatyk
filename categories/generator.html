@@ -36,7 +36,7 @@
         var options = {label: '🌓'}; 
         new Darkmode(options).showWidget();
 
-        readTextFile("/json/stare-arkusze.json", function(text) {
+        readTextFile("../json/stare-arkusze.json", function(text) {
             var questions = JSON.parse(text);
             for(var i = 0; i < questions.length; i++) {
                 var questionDiv = `
