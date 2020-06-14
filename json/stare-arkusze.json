@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "question":"W układzie SI jednostką miary napięcia jest",
+        "image":null,
+        "answers": [
+            "A. wat",
+            "B. herc",
+            "C. wolt",
+            "D. amper"
+        ],
+        "correctAnswer":"wolt"
+    },
+    {
+        "id":2,
+        "question":"Wskaż rysunek przedstawiający kondensator stały",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"D"
+    },
+    {
+        "id":3,
+        "question":"Na rysunku został przedstawiony schemat budowy logicznej ",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question3.png",
+        "answers": [
+            "A. procesora",
+            "B. klawiatury",
+            "C. karty graficznej",
+            "D. myszy komputerowej"
+        ],
+        "correctAnswer":"procesora"
+    },
+    {
+        "id":4,
+        "question":"Oznaczenie przedstawionego procesora informuje o",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question4.png",
+        "answers": [
+            "A. jego małej obudowie",
+            "B. wersji mobilnej procesora",
+            "C. braku blokady mnożnika (unlocked)",
+            "D. bardzo niskim zużyciu energii przez procesor"
+        ],
+        "correctAnswer":"braku blokady mnożnika (unlocked)"
+    },
+    {
+        "id":2,
+        "question":"Wskaż rysunek przedstawiający kondensator stały",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"D"
+    },
+    {
+        "id":2,
+        "question":"Wskaż rysunek przedstawiający kondensator stały",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"D"
+    },
+    {
+        "id":2,
+        "question":"Wskaż rysunek przedstawiający kondensator stały",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"D"
+    },
+    {
+        "id":2,
+        "question":"Wskaż rysunek przedstawiający kondensator stały",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"D"
+    },
+    {
+        "id":2,
+        "question":"Wskaż rysunek przedstawiający kondensator stały",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"D"
+    },
+    {
+        "id":2,
+        "question":"Wskaż rysunek przedstawiający kondensator stały",
+        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"D"
+    },
+]
