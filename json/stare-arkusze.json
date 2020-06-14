@@ -472,11 +472,491 @@
         "question":"Zamieszczony komunikat widoczny po uruchomieniu narzędzia do naprawy systemu Windows może świadczyć o",
         "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question40.png",
         "answers": [
-            "A. wykonać reinstalację systemu Linux",
-            "B. ponownie zainstalować bootloadera GRUB",
-            "C. wykonać kolejny raz instalację systemu Windowsa",
-            "D. przeprowadzić skanowanie dysku programem antywirusowym"
+            "A. uszkodzeniu sterowników",
+            "B. wykryciu nieprawidłowej adresacji IP",
+            "C. uszkodzeniu plików startowych systemu",
+            "D. konieczności wykonania kopii zapasowej systemu"
         ],
-        "correctAnswer":"ponownie zainstalować bootloadera GRUB"
+        "correctAnswer":"uszkodzeniu plików startowych systemu"
+    },
+    {
+        "id":41,
+        "question":"Przedstawiony na rysunku element elektroniczny to",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question41.png",
+        "answers": [
+            "A. cewka",
+            "B. rezystor",
+            "C. tranzystor",
+            "D. kondensator"
+        ],
+        "correctAnswer":"tranzystor"
+    },
+    {
+        "id":42,
+        "question":"W dokumentacji technicznej efektywność głośnika podłączonego do komputera zapisuje się w jednostce",
+        "image":null,
+        "answers": [
+            "A. J",
+            "B. W",
+            "C. dB",
+            "D. kHz"
+        ],
+        "correctAnswer":"dB"
+    },
+    {
+        "id":43,
+        "question":"Na urządzeniu zasilanym prądem stałym znajduje się przedstawione oznaczenie. Wynika z niego, że urządzenie pobiera moc około",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question43.png",
+        "answers": [
+            "A. 2,5 W",
+            "B. 7,5 W",
+            "C. 11,0 W",
+            "D. 18,75 W"
+        ],
+        "correctAnswer":"18,75 W"
+    },
+    {
+        "id":44,
+        "question":"Gniazdo LGA znajdujące się na płycie głównej komputera stacjonarnego umożliwia zainstalowanie procesora",
+        "image":null,
+        "answers": [
+            "A. Intel Core i5",
+            "B. Athlon 64 X2",
+            "C. AMD Sempron",
+            "D. Intel Pentium II Xeon"
+        ],
+        "correctAnswer":"Intel Core i5"
+    },
+    {
+        "id":45,
+        "question":"Aby serwer umożliwiał transmisję danych w pasmach częstotliwości 2,4 GHz oraz 5 GHz, należy zainstalować w nim kartę sieciową pracującą w standardzie",
+        "image":null,
+        "answers": [
+            "A. 802.11a",
+            "B. 802.11b",
+            "C. 802.11g",
+            "D. 802.11n"
+        ],
+        "correctAnswer":"802.11n"
+    },
+    {
+        "id":46,
+        "question":"Do instalacji oraz deinstalacji oprogramowania w systemie Ubuntu służy menadżer",
+        "image":null,
+        "answers": [
+            "A. ls",
+            "B. tar",
+            "C. apt",
+            "D. yast"
+        ],
+        "correctAnswer":"apt"
+    },
+    {
+        "id":47,
+        "question":"Wydając w wierszu poleceń systemu Windows Server polecenie convert, można przeprowadzić",
+        "image":null,
+        "answers": [
+            "A. defragmentację dysku",
+            "B. zmianę systemu plików",
+            "C. naprawę systemu plików",
+            "D. naprawę logicznej struktury dysku"
+        ],
+        "correctAnswer":"zmianę systemu plików"
+    },
+    {
+        "id":48,
+        "question":"Aby zaktualizować zmiany w konfiguracji systemu operacyjnego Windows wykonane za pomocą edytora zasad grup, można posłużyć się poleceniem",
+        "image":null,
+        "answers": [
+            "A. restore",
+            "B. dompol",
+            "C. services",
+            "D. gpupdate"
+        ],
+        "correctAnswer":"gpupdate"
+    },
+    {
+        "id":49,
+        "question":"Przedstawiona na rysunku topologia sieci to",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question49.png",
+        "answers": [
+            "A. bus",
+            "B. star",
+            "C. ring",
+            "D. mesh"
+        ],
+        "correctAnswer":"mesh"
+    },
+    {
+        "id":50,
+        "question":"Łącze światłowodowe wykorzystywane do transmisji danych w standardzie 10GBASE-SR może mieć długość wynoszącą maksymalnie",
+        "image":null,
+        "answers": [
+            "A. 2 km",
+            "B. 4 km",
+            "C. 200 m",
+            "D. 400 m"
+        ],
+        "correctAnswer":"400 m"
+    },
+    {
+        "id":51,
+        "question":"Który protokół jest wykorzystywany do transmisji danych w warstwie transportowej modelu ISO/OSI?",
+        "image":null,
+        "answers": [
+            "A. ARP",
+            "B. TCP",
+            "C. HTTP",
+            "D. LDAP"
+        ],
+        "correctAnswer":"TCP"
+    },
+    {
+        "id":52,
+        "question":"Pomiar tłumienia w kablowym torze transmisyjnym pozwala określić",
+        "image":null,
+        "answers": [
+            "A. czas opóźnienia propagacji",
+            "B. błędy instalacyjne typu zamiana pary",
+            "C. różnice miedzy przesłuchami zdalnymi",
+            "D. spadek mocy sygnału w danej parze przewodu"
+        ],
+        "correctAnswer":"spadek mocy sygnału w danej parze przewodu"
+    },
+    {
+        "id":53,
+        "question":"Odpowiednikiem adresu pętli zwrotnej jest w IPv6 adres",
+        "image":null,
+        "answers": [
+            "A. 0:0/32",
+            "B. ::fff/64",
+            "C. ::1/128",
+            "D. :1:1:1/96"
+        ],
+        "correctAnswer":"::1/128"
+    },
+    {
+        "id":54,
+        "question":"Który zapis adresu IPv4 wraz z maską jest błędny?",
+        "image":null,
+        "answers": [
+            "A. 16.1.1.1/5",
+            "B. 100.0.0.0/8",
+            "C. 18.4.0.0, maska 255.0.0.0",
+            "D. 192.168.0.1, maska 255.250.255.0"
+        ],
+        "correctAnswer":"192.168.0.1, maska 255.250.255.0"
+    },
+    {
+        "id":55,
+        "question":"Dana jest sieć o adresie 172.16.0.0/16. Które z adresów sieci 172.16.0.0/16 są prawidłowe, jeśli zostaną wydzielone cztery podsieci o masce 18 bitowej?",
+        "image":null,
+        "answers": [
+            "A. 172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0",
+            "B. 172.16.0.0, 172.16.0.64, 172.16.0.128, 172.16.0.192",
+            "C. 172.16.64.0, 172.16.0.128, 172.16.192.0, 172.16.0.255",
+            "D. 172.16.64.0, 172.16.64.64, 172.16.64.128, 172.16.64.192"
+        ],
+        "correctAnswer":"172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0.0"
+    },
+    {
+        "id":56,
+        "question":"Administrator sieci LAN zauważył przejście w tryb awaryjny urządzenia typu UPS. Świadczy to o awarii systemu",
+        "image":null,
+        "answers": [
+            "A. zasilania",
+            "B. okablowania",
+            "C. urządzeń aktywnych",
+            "D. chłodzenia i wentylacji"
+        ],
+        "correctAnswer":"zasilania"
+    },
+    {
+        "id":57,
+        "question":"Szerokopasmowy dostęp do Internetu przy różnej prędkości pobierania i wysyłania danych zapewnia technologia",
+        "image":null,
+        "answers": [
+            "A. MSK",
+            "B. ISDN",
+            "C. QAM",
+            "D. ADSL"
+        ],
+        "correctAnswer":"ADSL"
+    },
+    {
+        "id":58,
+        "question":"Wewnętrzny protokół trasowania, którego metryką jest wektor odległości, to",
+        "image":null,
+        "answers": [
+            "A. RIP",
+            "B. EGP",
+            "C. IS-IS",
+            "D. OSPF"
+        ],
+        "correctAnswer":"RIP"
+    },
+    {
+        "id":59,
+        "question":"Jaką nazwę nosi indentyfikator, który musi być identyczny, by urządzenia sieciowe mogły pracować w danej sieci bezprzewodowej?",
+        "image":null,
+        "answers": [
+            "A. IP",
+            "B. URL",
+            "C. SSID",
+            "D. MAC"
+        ],
+        "correctAnswer":"SSID"
+    },
+    {
+        "id":60,
+        "question":"Materiałem eksploatacyjnym plotera solwentowego jest",
+        "image":null,
+        "answers": [
+            "A. głowica tnąca",
+            "B. atrament żelowy",
+            "C. zestaw metalowych rylców",
+            "D. farba na bazie rozpuszczalników"
+        ],
+        "correctAnswer":"farba na bazie rozpuszczalników"
+    },
+    {
+        "id":61,
+        "question":"Za pomocą polecenia ipconfig /flushdns można wykonać konserwację urządzenia sieciowego polegającą na",
+        "image":null,
+        "answers": [
+            "A. odnowieniu dzierżawy adresu IP",
+            "B. zwolnieniu dzierżawy adresu uzyskanego z DHCP",
+            "C. aktualizacji ustawień nazw interfejsów sieciowych",
+            "D. wyczyszczeniu bufora systemu nazw domenowych"
+        ],
+        "correctAnswer":"wyczyszczeniu bufora systemu nazw domenowych"
+    },
+    {
+        "id":62,
+        "question":"Który protokół jest wykorzystywany przez polecenie ping?",
+        "image":null,
+        "answers": [
+            "A. IPX",
+            "B. FTP",
+            "C. SMTP",
+            "D. ICMP"
+        ],
+        "correctAnswer":"ICMP"
+    },
+    {
+        "id":63,
+        "question":"Programem nasłuchowym służącym do przechwytywania i nagrywania różnych pakietów sieciowych oraz ich dekodowania jest",
+        "image":null,
+        "answers": [
+            "A. finder",
+            "B. tracker",
+            "C. konqueror",
+            "D. whireshark"
+        ],
+        "correctAnswer":"whireshark"
+    },
+    {
+        "id":64,
+        "question":"Przedstawiony listing zawiera polecenia umożliwiające",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question64.png",
+        "answers": [
+            "A. usunięcie portów 0 i 1 przełącznika z sieci vlan",
+            "B. zmianę ustawienia prędkości dla portu 0/1 na fastethernet",
+            "C. konfigurację wirtualnej sieci lokalnej o nazwie vlan 10 w przełączniku",
+            "D. ustawienie nazwy fastEthernet dla pierwszych dziesięciu portów przełącznika"
+        ],
+        "correctAnswer":"konfigurację wirtualnej sieci lokalnej o nazwie vlan 10 w przełączniku"
+    },
+    {
+        "id":65,
+        "question":"Przedstawiony fragment konfiguracji zapory sieciowej zezwala na ruch sieciowy z wykorzystaniem protokołów",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question65.png",
+        "answers": [
+            "A. FTP, SSH",
+            "B. POP3, TFTP",
+            "C. HTTP, SMPT",
+            "D. HTTPS, IMAP"
+        ],
+        "correctAnswer":"HTTPS, IMAP"
+    },
+    {
+        "id":66,
+        "question":"Przedstawione na rysunku narzędzie służy do testowania",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question66.png",
+        "answers": [
+            "A. zasilacza",
+            "B. płyty głównej",
+            "C. karty sieciowej",
+            "D. okablowania LAN"
+        ],
+        "correctAnswer":"okablowania LAN"
+    },
+    {
+        "id":67,
+        "question":"Kopię danych w systemie Linux można wykonać za pomocą polecenia",
+        "image":null,
+        "answers": [
+            "A. dd",
+            "B. tac",
+            "C. split",
+            "D. restore"
+        ],
+        "correctAnswer":"dd"
+    },
+    {
+        "id":68,
+        "question":"W systemie Linux odpowiednikiem programu Windows o nazwie chkdsk jest program",
+        "image":null,
+        "answers": [
+            "A. fsck",
+            "B. icacls",
+            "C. totem",
+            "D. synaptic"
+        ],
+        "correctAnswer":"fsck"
+    },
+    {
+        "id":69,
+        "question":"Za pomocą polecenia dxdiag wywołanego z wiersza poleceń systemu Windows można",
+        "image":null,
+        "answers": [
+            "A. sprawdzić parametry karty graficznej",
+            "B. wykonać pełną diagnostykę karty sieciowej",
+            "C. przeskanować dysk twardy w poszukiwaniu błędów",
+            "D. zweryfikować prędkość zapisu oraz odczytu napędów DVD"
+        ],
+        "correctAnswer":"sprawdzić parametry karty graficznej"
+    },
+    {
+        "id":70,
+        "question":"Które narzędzie jest stosowane do weryfikacji sterowników w systemie Windows?",
+        "image":null,
+        "answers": [
+            "A. sfc",
+            "B. debug",
+            "C. verifier",
+            "D. replace"
+        ],
+        "correctAnswer":"verifier"
+    },
+    {
+        "id":71,
+        "question":"Wskaż efekt działania niniejszego polecenia: net user Test /expires:12/09/20",
+        "image":null,
+        "answers": [
+            "A. Ustawiony czas aktywacji konta Test",
+            "B. Ustawiona data wygaśnięcia konta Test",
+            "C. Sprawdzona data ostatniego logowania na konto Test",
+            "D. Wymuszona zmiana hasła na koncie Test w podanym terminie"
+        ],
+        "correctAnswer":"Ustawiona data wygaśnięcia konta Test"
+    },
+    {
+        "id":72,
+        "question":"Użytkownik systemu operacyjnego Linux chce przypisać adres IP 152.168.1.200 255.255.0.0 interfejsowi sieciowemu. Które polecenie powinien wydać, mając uprawnienia root?",
+        "image":null,
+        "answers": [
+            "A. ip addr add 152.168.1.200/16 dev eth1",
+            "B. netsh interface IP 152.168.1.200/16 /add",
+            "C. ip addr add 152.168.1.200 255.255.0.0 dev eth1",
+            "D. netsh interface IP 152.168.1.200 255.255.0.0 /add"
+        ],
+        "correctAnswer":"ip addr add 152.168.1.200/16 dev eth1"
+    },
+    {
+        "id":73,
+        "question":"W wyniku użycia polecenia route add 192.168.35.0 MASK 255.255.255.0 192.168.0.2 ustawiono",
+        "image":null,
+        "answers": [
+            "A. koszt metryki na 0 przeskoków",
+            "B. adres docelowej sieci na 192.168.35.0",
+            "C. 25 bitową maskę dla adresu docelowego",
+            "D. maskę 255.255.255.0 dla adresu IP bramy 192.168.0.2"
+        ],
+        "correctAnswer":"adres docelowej sieci na 192.168.35.0"
+    },
+    {
+        "id":74,
+        "question":"Sprawdzenie minimalnego okresu ważności hasła w systemie Windows umożliwia polecenie",
+        "image":null,
+        "answers": [
+            "A. net user",
+            "B. net time",
+            "C. net group",
+            "D. net accounts"
+        ],
+        "correctAnswer":"net accounts"
+    },
+    {
+        "id":75,
+        "question":"W systemie Linux polecenie chmod umożliwia",
+        "image":null,
+        "answers": [
+            "A. zmianę właściciela pliku",
+            "B. naprawę systemu plików",
+            "C. ustawienie praw dostępu do pliku",
+            "D. wyświetlenie informacji o ostatniej aktualizacji pliku"
+        ],
+        "correctAnswer":"ustawienie praw dostępu do pliku"
+    },
+    {
+        "id":76,
+        "question":"Aby uzupełnić prawidłową składnię prezentowanego polecenia, które udostępnia folder Dane pod nazwą test, w miejscu kropek należy wpisać słowo",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question76.png",
+        "answers": [
+            "A. use",
+            "B. view",
+            "C. share",
+            "D. connect"
+        ],
+        "correctAnswer":"share"
+    },
+    {
+        "id":77,
+        "question":"Które ze zdań jest prawdziwe dla przedstawionej konfiguracji usługi DHCP w systemie Linux?",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question77.png",
+        "answers": [
+            "A. System zamieni adres IP 192.168.221.102 na nazwę main",
+            "B. Komputery otrzymają adres IP z zakresu 176.16.20.251 ÷ 255.255.255.0",
+            "C. Karcie sieciowej komputera main przypisany zostanie adres IP 39:12:86:07:55:00",
+            "D. Komputery pracujące w sieci otrzymają adres IP z zakresu 176.16.20.50 ÷ 176.16.20.250"
+        ],
+        "correctAnswer":"Komputery pracujące w sieci otrzymają adres IP z zakresu 176.16.20.50 ÷ 176.16.20.250"
+    },
+    {
+        "id":78,
+        "question":"Dla danego użytkownika w systemie Linux polecenie usermod -s pozwala na",
+        "image":null,
+        "answers": [
+            "A. zablokowanie jego konta",
+            "B. przypisanie go do nowej grupy",
+            "C. zmianę jego katalogu domowego",
+            "D. zmianę jego powłoki systemowej"
+        ],
+        "correctAnswer":"zmianę jego powłoki systemowej"
+    },
+    {
+        "id":79,
+        "question":"Który protokół nie funkcjonuje w warstwie aplikacji modelu ISO/OSI?",
+        "image":null,
+        "answers": [
+            "A. IP",
+            "B. FTP",
+            "C. DNS",
+            "D. HTTP"
+        ],
+        "correctAnswer":"IP"
+    },
+    {
+        "id":80,
+        "question":"Protokół umożliwiający hostom uzyskanie od serwera danych konfiguracyjnych, np. adresu IP bramy sieciowej, to",
+        "image":null,
+        "answers": [
+            "A. RTP",
+            "B. NFS",
+            "C. DHCP",
+            "D. HTTPS"
+        ],
+        "correctAnswer":"DHCP"
     }
 ]
