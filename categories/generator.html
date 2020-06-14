@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Egzamin EE08 - kategoria Sieci</title>
+    <title>Egzamin EE08 - kategoria Sprzęt</title>
     <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css"/>
     <link rel="stylesheet" href="../css/style.css" type="text/css"/>
     <script src="../js/jquery.min.js"></script>
@@ -22,7 +22,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Baza pytań z kategorii systemy:</h1>
+        <h1>Baza pytań z kategorii Sprzęt:</h1>
+        <a href="../index.html" class="go-back-link">Kliknij tutaj, aby powrócić do strony głównej.</a>
         <hr/>
 
         <div id="questions">
@@ -34,12 +35,12 @@
         var options = {label: '🌓'}; 
         new Darkmode(options).showWidget();
 
-        readTextFile("/json/systemy.json", function(text) {
+        readTextFile("/json/sprzet.json", function(text) {
             var questions = JSON.parse(text);
             for(var i = 0; i < questions.length; i++) {
                 var questionDiv = `
                     <div class="question">
-                        <strong>${questions[i].id}. ${questions[i].question}</strong>
+                        <strong>${i + 1}. ${questions[i].question}</strong>
                         $!_IMAGE_!$
                         <ul>
                             <li>${questions[i].answers[0]}</li>
