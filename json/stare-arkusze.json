@@ -14,7 +14,7 @@
     {
         "id":2,
         "question":"Wskaż rysunek przedstawiający kondensator stały",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
         "answers": [
             "A. A",
             "B. B",
@@ -26,7 +26,7 @@
     {
         "id":3,
         "question":"Na rysunku został przedstawiony schemat budowy logicznej ",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question3.png",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question3.png",
         "answers": [
             "A. procesora",
             "B. klawiatury",
@@ -38,7 +38,7 @@
     {
         "id":4,
         "question":"Oznaczenie przedstawionego procesora informuje o",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question4.png",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question4.png",
         "answers": [
             "A. jego małej obudowie",
             "B. wersji mobilnej procesora",
@@ -48,75 +48,435 @@
         "correctAnswer":"braku blokady mnożnika (unlocked)"
     },
     {
-        "id":2,
-        "question":"Wskaż rysunek przedstawiający kondensator stały",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "id":5,
+        "question":"Wskaż podzespół niekompatybilny z płytą główną o przedstawionych w tabeli parametrach",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question5.png",
         "answers": [
-            "A. A",
-            "B. B",
-            "C. C",
-            "D. D"
+            "A. Monitor: Dell, 34”, 1x DisplayPort, 1x miniDP, 2x USB 3.0 Upstream, 4x USB 3.0 Downstream",
+            "B. Karta graficzna: Gigabyte GeForce GTX 1050 OC, 2GB, GDDR5, 128 bit, PCI-Express 3.0 x16",
+            "C. Procesor: INTEL CORE i3-4350, 3.60 GHz, x2/4, 4 MB, 54W, HD 4600, BOX, s-1150",
+            "D. Pamięć RAM: Corsair Vengeance LPX, DDR4, 2x16GB, 3000MHz, CL15 Black"
         ],
-        "correctAnswer":"D"
+        "correctAnswer":"Procesor: INTEL CORE i3-4350, 3.60 GHz, x2/4, 4 MB, 54W, HD 4600, BOX, s-1150"
     },
     {
-        "id":2,
-        "question":"Wskaż rysunek przedstawiający kondensator stały",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "id":6,
+        "question":"W zestawie komputerowym o parametrach przedstawionych w tabeli należy wymienić kartę graficzną na kartę GeForce GTX 1070 Ti Titanium 8G DDR5, PCI EX-x16 3.0, 256b, 1683 MHz/1607 MHz, Power consumption 180W, 3x DP, 2x HDMI, recommended power supply 500W, DirectX 12, OpenGL 4.5. W związku z tym modernizacja tego komputera wymaga również wymiany",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question6.png",
         "answers": [
-            "A. A",
-            "B. B",
-            "C. C",
-            "D. D"
+            "A. karty sieciowe",
+            "B. płyty głównej",
+            "C. procesora",
+            "D. zasilacza"
         ],
-        "correctAnswer":"D"
+        "correctAnswer":"zasilacza"
     },
     {
-        "id":2,
-        "question":"Wskaż rysunek przedstawiający kondensator stały",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "id":7,
+        "question":"Do aktualizacji systemów Linux można wykorzystać programy",
+        "image":null,
         "answers": [
-            "A. A",
-            "B. B",
-            "C. C",
-            "D. D"
+            "A. cron i mount",
+            "B. defrag i YaST",
+            "C. apt-get i zypper",
+            "D. aptitude i amarok"
         ],
-        "correctAnswer":"D"
+        "correctAnswer":"apt-get i zypper"
     },
     {
-        "id":2,
-        "question":"Wskaż rysunek przedstawiający kondensator stały",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "id":8,
+        "question":"Autor zamieszczonego oprogramowania zezwala na jego bezpłatne używanie jedynie w przypadku",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question8.png",
         "answers": [
-            "A. A",
-            "B. B",
-            "C. C",
-            "D. D"
+            "A. zaakceptowania ograniczenia czasowego podczas instalacji",
+            "B. uiszczenia dobrowolnej opłaty na cele charytatywne",
+            "C. wysłania tradycyjnej kartki pocztowej do autora",
+            "D. przesłania przelewu z kwotą 1$ na konto autora"
         ],
-        "correctAnswer":"D"
+        "correctAnswer":"wysłania tradycyjnej kartki pocztowej do autora"
     },
     {
-        "id":2,
-        "question":"Wskaż rysunek przedstawiający kondensator stały",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "id":9,
+        "question":"Który ze standardów Gigabit Ethernet umożliwia budowę segmentów sieci o długości 550 m/5000 m z prędkością transmisji 1 Gb/s?",
+        "image":null,
         "answers": [
-            "A. A",
-            "B. B",
-            "C. C",
-            "D. D"
+            "A. 1000Base-T",
+            "B. 1000Base-FX",
+            "C. 1000Base-LX",
+            "D. 1000Base-SX"
         ],
-        "correctAnswer":"D"
+        "correctAnswer":"1000Base-LX"
     },
     {
-        "id":2,
-        "question":"Wskaż rysunek przedstawiający kondensator stały",
-        "image":"https://https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question2.png",
+        "id":10,
+        "question":"W dwóch przyległych pomieszczeniach pewnej firmy występują bardzo silne zakłócenia elektromagnetyczne. Aby zapewnić możliwie największą przepustowość podczas pracy istniejącej sieci LAN, jako medium transmisyjne należy zastosować",
+        "image":null,
         "answers": [
-            "A. A",
-            "B. B",
-            "C. C",
-            "D. D"
+            "A. kabel telefoniczny",
+            "B. kabel światłowodowy",
+            "C. skrętkę nieekranowaną",
+            "D. fale elektromagnetyczne w zakresie podczerwieni"
         ],
-        "correctAnswer":"D"
+        "correctAnswer":"kabel światłowodowy"
     },
+    {
+        "id":11,
+        "question":"Narzędziem służącym do połączenia pigtaila z włóknami kabla światłowodowego jest",
+        "image":null,
+        "answers": [
+            "A. przedłużacz kategorii 5e z zestawem pasywnych kabli o prędkości połączenia 100 Mb/s",
+            "B. narzędzie zaciskowe do wtyków RJ45, wyposażone w odpowiednie dla kabla gniazdo",
+            "C. spawarka światłowodowa, spajająca włókna za pomocą łuku elektrycznego",
+            "D. stacja lutownicza, wykorzystująca mikroprocesor do regulacji temperatury"
+        ],
+        "correctAnswer":"spawarka światłowodowa, spajająca włókna za pomocą łuku elektrycznego"
+    },
+    {
+        "id":12,
+        "question":"Aby zabezpieczyć sieć bezprzewodową przed nieautoryzowanym dostępem, należy między innymi",
+        "image":null,
+        "answers": [
+            "A. wyłączyć szyfrowanie danych",
+            "B. włączyć filtrowanie adresów MAC",
+            "C. korzystać wyłącznie z kanałów używanych przez inne sieci WiFi",
+            "D. zastosować nazwę identyfikatora sieci SSID o długości min. 16 znaków"
+        ],
+        "correctAnswer":"włączyć filtrowanie adresów MAC"
+    },
+    {
+        "id":13,
+        "question":"Wskaż adres sieci, do której należy host o adresie 172.16.0.123/27",
+        "image":null,
+        "answers": [
+            "A. 172.16.0.16",
+            "B. 172.16.0.96",
+            "C. 172.16.0.112",
+            "D. 172.16.0.224"
+        ],
+        "correctAnswer":"172.16.0.96"
+    },
+    {
+        "id":14,
+        "question":"Ile bitów należy wyodrębnić z części hosta, aby z sieci o adresie IPv4 170.16.0.0/16 wydzielić 24 podsieci?",
+        "image":null,
+        "answers": [
+            "A. 3",
+            "B. 4",
+            "C. 5",
+            "D. 6"
+        ],
+        "correctAnswer":"5"
+    },
+    {
+        "id":15,
+        "question":"Programem służącym do wyświetlenia listy aktywnych urządzeń pracujących w sieci LAN jest",
+        "image":null,
+        "answers": [
+            "A. Advanced IP Scaner",
+            "B. Ultimate Boot",
+            "C. Ace Utilities",
+            "D. Netstat"
+        ],
+        "correctAnswer":"Advanced IP Scaner"
+    },
+    {
+        "id":16,
+        "question":"Wskaż technologię wykorzystywaną do udostępniania Internetu wraz z usługą telewizji kablowej, w której jako medium transmisyjne jest wykorzystywany światłowód oraz kabel koncentryczny",
+        "image":null,
+        "answers": [
+            "A. PLC",
+            "B. HFC",
+            "C. xDSL",
+            "D. GPRS"
+        ],
+        "correctAnswer":"HFC"
+    },
+    {
+        "id":17,
+        "question":"Aby w systemie Windows zmienić port zainstalowanej drukarki, należy wykorzystać funkcję",
+        "image":null,
+        "answers": [
+            "A. Menedżer zadań",
+            "B. Właściwości drukarki",
+            "C. Preferencje drukowania",
+            "D. Ostatnia znana dobra konfiguracja"
+        ],
+        "correctAnswer":"Właściwości drukarki"
+    },
+    {
+        "id":18,
+        "question":"W sieci LAN do zabezpieczenia urządzeń sieciowych przed przepięciami oraz różnicami potencjałów, które mogą wystąpić podczas burzy lub innych wyładowań atmosferycznych, należy wykorzystać",
+        "image":null,
+        "answers": [
+            "A. ruter",
+            "B. przełącznik",
+            "C. sprzętową zaporę sieciową",
+            "D. urządzenie typu NetProtector"
+        ],
+        "correctAnswer":"urządzenie typu NetProtector"
+    },
+    {
+        "id":19,
+        "question":"Do sprawdzenia indeksu stabilności systemu Windows Server należy wykorzystać narzędzie",
+        "image":null,
+        "answers": [
+            "A. Monitor niezawodności",
+            "B. Dziennik zdarzeń",
+            "C. Menedżer zadań",
+            "D. Zasady grupy"
+        ],
+        "correctAnswer":"Monitor niezawodności"
+    },
+    {
+        "id":20,
+        "question":"Wskaż nazwę usługi przełącznika, która umożliwi ustawienie wyższego priorytetu dla transmisji VoIP.",
+        "image":null,
+        "answers": [
+            "A. SNMP",
+            "B. VNC",
+            "C. QoS",
+            "D. STP"
+        ],
+        "correctAnswer":"QoS"
+    },
+    {
+        "id":21,
+        "question":"Na podstawie zrzutu ekranu przedstawiającego konfigurację przełącznika można stwierdzić, że...",
+        "image":null,
+        "answers": [
+            "A. czas między wysyłaniem kolejnych komunikatów o poprawnej pracy urządzenia wynosi 3 sekundy",
+            "B. maksymalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 20 sekund",
+            "C. minimalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 25 sekund",
+            "D. maksymalny czas pomiędzy zmianami statusu łącza wynosi 5 sekund"
+        ],
+        "correctAnswer":"A"
+    },
+    {
+        "id":22,
+        "question":"Połączenie VPN obsługiwane przez system Windows Server, w którym uwierzytelnienie użytkowników następuje przez niezabezpieczone połączenia, a dopiero po wymianie uwierzytelnień rozpoczyna się szyfrowanie połączenia, to",
+        "image":null,
+        "answers": [
+            "A. SSTP",
+            "B. PPTP",
+            "C. L2TP",
+            "D. IPSEC"
+        ],
+        "correctAnswer":"PPTP"
+    },
+    {
+        "id":23,
+        "question":"Do sprawdzenia prawidłowych przebiegów i wartości napięć układu urządzenia elektronicznego można użyć",
+        "image":null,
+        "answers": [
+            "A. watomierza",
+            "B. testera płyt głównych",
+            "C. oscyloskopu cyfrowego",
+            "D. miernika uniwersalnego"
+        ],
+        "correctAnswer":"oscyloskopu cyfrowego"
+    },
+    {
+        "id":24,
+        "question":"Użycie polecenia tar –xf dane.tar w systemie Linux spowoduje",
+        "image":null,
+        "answers": [
+            "A. skopiowanie pliku dane.tar do katalogu /home",
+            "B. wyświetlenie informacji o zawartości pliku dane.tar",
+            "C. wyodrębnienie danych z archiwum o nazwie dane.tar",
+            "D. utworzenie archiwum dane.tar zawierające kopię katalogu /home"
+        ],
+        "correctAnswer":"wyodrębnienie danych z archiwum o nazwie dane.tar"
+    },
+    {
+        "id":25,
+        "question":"Komunikat tekstowy BIOS POST firmy Award o treści „Display switch is set incorrectly” wskazuje na",
+        "image":null,
+        "answers": [
+            "A. usterkę pamięci operacyjnej",
+            "B. brak urządzenia rozruchowego",
+            "C. błąd inicjalizacji dysku twardego",
+            "D. nieprawidłowy tryb wyświetlania obrazu"
+        ],
+        "correctAnswer":"nieprawidłowy tryb wyświetlania obrazu"
+    },
+    {
+        "id":26,
+        "question":"Do wykonania monitoringu stanu dysków twardych w serwerach, komputerach stacjonarnych i laptopach można wykorzystać program",
+        "image":null,
+        "answers": [
+            "A. Super Pi",
+            "B. Packet Tracer",
+            "C. Acronis Drive Monitor",
+            "D. PRTG Network Monitor"
+        ],
+        "correctAnswer":"Acronis Drive Monitor"
+    },
+    {
+        "id":27,
+        "question":"Aby w systemie Windows wykonać śledzenie trasy pakietów do serwera strony internetowej, należy wykorzystać polecenie",
+        "image":null,
+        "answers": [
+            "A. ping",
+            "B. tracert",
+            "C. netstat",
+            "D. iproute"
+        ],
+        "correctAnswer":"tracert"
+    },
+    {
+        "id":28,
+        "question":"Serwisant dojechał do klienta oddalonego od siedziby firmy o 11 km oraz wykonał u niego czynności naprawcze zawarte w tabeli. Wskaż całkowity koszt brutto jego pracy, jeśli dojazd do klienta kosztuje 1,20 zł/km brutto i jest on liczony w obie strony. Stawka podatku VAT na usługi wynosi 23%.",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question28.png",
+        "answers": [
+            "A. 153,20 zł",
+            "B. 166,40 zł",
+            "C. 195,40 zł",
+            "D. 198,60 zł"
+        ],
+        "correctAnswer":"198,60 zł"
+    },
+    {
+        "id":29,
+        "question":"Aby ikony widoczne na przedstawionym obrazie pojawiły się na Pasku zadań, należy w systemie Windows skonfigurować",
+        "image":null,
+        "answers": [
+            "A. funkcję Snap i Peek",
+            "B. funkcję Pokaż pulpit",
+            "C. obszar powiadomień",
+            "D. obszar Action Center"
+        ],
+        "correctAnswer":"obszar powiadomień"
+    },
+    {
+        "id":30,
+        "question":"Po analizie zamieszczonych wyników konfiguracji kart sieciowych zainstalowanych na komputerze można stwierdzić, że",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question30.png",
+        "answers": [
+            "A. karta bezprzewodowa ma nazwę Net11",
+            "B. wszystkie karty mogą uzyskać adres IP automatycznie",
+            "C. karta przewodowa ma adres MAC 8C-70-5A-F3-75-BC",
+            "D. interfejs Bluetooth ma przydzielony adres IPv4 192.168.0.102"
+        ],
+        "correctAnswer":"wszystkie karty mogą uzyskać adres IP automatycznie."
+    },
+    {
+        "id":31,
+        "question":"W systemie Windows przeprowadzenie analizy wpływu uruchamianych programów na wydajność komputera jest między innymi możliwe po użyciu polecenia",
+        "image":null,
+        "answers": [
+            "A. dfrgui.exe",
+            "B. iscsicpl.exe",
+            "C. perfmon.msc",
+            "D. taskschd.msc"
+        ],
+        "correctAnswer":"perfmon.msc"
+    },
+    {
+        "id":32,
+        "question":"W systemie Linux polecenie cd ~ służy do",
+        "image":null,
+        "answers": [
+            "A. utworzenia katalogu /~",
+            "B. przejścia do katalogu głównego",
+            "C. wyszukania znaku ~ w zapisanych danych",
+            "D. przejścia do katalogu domowego użytkownika"
+        ],
+        "correctAnswer":"przejścia do katalogu domowego użytkownika"
+    },
+    {
+        "id":33,
+        "question":"W systemie Windows Server udostępnienie folderu jako zasobu sieciowego, widocznego na stacji roboczej w postaci dysku oznaczonego literą, jest możliwe dzięki wykonaniu operacji",
+        "image":null,
+        "answers": [
+            "A. zerowania",
+            "B. mapowania",
+            "C. oczyszczania",
+            "D. defragmentacji"
+        ],
+        "correctAnswer":"mapowania"
+    },
+    {
+        "id":34,
+        "question":"Serwer Samba umożliwia współdzielenie plików i drukarek w sieci za pomocą demona",
+        "image":null,
+        "answers": [
+            "A. grep",
+            "B. mkfs",
+            "C. smbd",
+            "D. quota"
+        ],
+        "correctAnswer":"smbd"
+    },
+    {
+        "id":35,
+        "question":"Który z rekordów DNS należy dodać w strefie wyszukiwania do przodu, aby zmapować nazwę domeny DNS na adres IP?",
+        "image":null,
+        "answers": [
+            "A. MX lub PTR",
+            "B. A lub AAAA",
+            "C. SRV lub TXT",
+            "D. NS lub CNAME"
+        ],
+        "correctAnswer":"A lub AAAA"
+    },
+    {
+        "id":36,
+        "question":"Polecenie net accounts zastosowane w Wierszu poleceń systemu Windows, powodujące ustawienie maksymalnej liczby dni ważności hasła, wymaga użycia opcji",
+        "image":null,
+        "answers": [
+            "A. /TIMES",
+            "B. /EXPIRES",
+            "C. /MAXPWAGE",
+            "D. /FORCELOGOFF"
+        ],
+        "correctAnswer":"/MAXPWAGE"
+    },
+    {
+        "id":37,
+        "question":"W systemie Windows Server narzędziem umożliwiającym zarządzanie zasadami grupy jest",
+        "image":null,
+        "answers": [
+            "A. Panel sterowania",
+            "B. Menedżer zadań",
+            "C. Konsola GPMC",
+            "D. Serwer DNS"
+        ],
+        "correctAnswer":"C"
+    },
+    {
+        "id":38,
+        "question":"Narzędziem umożliwiającym zdalną kontrolę użytkownika sieci lokalnej poprzez śledzenie jego działań lub przejęcie całkowitej kontroli nad zdalną maszyną jest program",
+        "image":null,
+        "answers": [
+            "A. RealVNC",
+            "B. Nslookup",
+            "C. Recuva",
+            "D. CPU-Z"
+        ],
+        "correctAnswer":"RealVNC"
+    },
+    {
+        "id":39,
+        "question":"Na komputerze z zainstalowanymi dwoma systemami – Windows i Linux, po wykonaniu reinstalacji systemu Windows nie uruchamia się drugi system. Aby przywrócić możliwość uruchamiania się systemu Linux oraz aby nie stracić danych i ustawień w nim zapisanych, należy",
+        "image":null,
+        "answers": [
+            "A. wykonać reinstalację systemu Linux",
+            "B. ponownie zainstalować bootloadera GRUB",
+            "C. wykonać kolejny raz instalację systemu Windowsa",
+            "D. przeprowadzić skanowanie dysku programem antywirusowym"
+        ],
+        "correctAnswer":"ponownie zainstalować bootloadera GRUB"
+    },
+    {
+        "id":40,
+        "question":"Zamieszczony komunikat widoczny po uruchomieniu narzędzia do naprawy systemu Windows może świadczyć o",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question40.png",
+        "answers": [
+            "A. wykonać reinstalację systemu Linux",
+            "B. ponownie zainstalować bootloadera GRUB",
+            "C. wykonać kolejny raz instalację systemu Windowsa",
+            "D. przeprowadzić skanowanie dysku programem antywirusowym"
+        ],
+        "correctAnswer":"ponownie zainstalować bootloadera GRUB"
+    }
 ]

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Egzamin EE08 - kategoria Sprzęt</title>
+    <title>Egzamin EE.08 - kategoria Stare arkusze</title>
     <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css"/>
     <link rel="stylesheet" href="../css/style.css" type="text/css"/>
     <script src="../js/jquery.min.js"></script>
@@ -23,7 +23,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Baza pytań z kategorii Sprzęt:</h1>
+        <h1>Baza pytań z kategorii Stare arkusze:</h1>
         <a href="../index.html" class="go-back-link">Kliknij tutaj, aby powrócić do strony głównej.</a>
         <hr/>
 
@@ -36,7 +36,7 @@
         var options = {label: '🌓'}; 
         new Darkmode(options).showWidget();
 
-        readTextFile("/json/sprzet.json", function(text) {
+        readTextFile("/json/stare-arkusze.json", function(text) {
             var questions = JSON.parse(text);
             for(var i = 0; i < questions.length; i++) {
                 var questionDiv = `
@@ -57,7 +57,7 @@
 
                 if(questions[i].image != null) {
                     questionDiv = questionDiv.replace("$!_IMAGE_!$", `
-                        <br/><img src="${questions[i].image}" alt="obraz będący częścią egzaminu"/>
+                        <br/><img src="${questions[i].image}" alt="obraz będący częścią egzaminu" class="img-fluid"/>
                     `);
                 } else {
                     questionDiv = questionDiv.replace("$!_IMAGE_!$", "");
