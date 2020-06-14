@@ -22,7 +22,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Baza pytań z kategorii sieci (około 900 pytań):</h1>
+        <h1>Baza pytań z kategorii systemy:</h1>
         <hr/>
 
         <div id="questions">
@@ -34,7 +34,7 @@
         var options = {label: '🌓'}; 
         new Darkmode(options).showWidget();
 
-        readTextFile("/json/sieci.json", function(text) {
+        readTextFile("/json/systemy.json", function(text) {
             var questions = JSON.parse(text);
             for(var i = 0; i < questions.length; i++) {
                 var questionDiv = `
