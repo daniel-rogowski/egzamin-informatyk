@@ -958,5 +958,485 @@
             "D. HTTPS"
         ],
         "correctAnswer":"DHCP"
+    },
+    {
+        "id":81,
+        "question":"Który zapis w systemie binarnym odpowiada liczbie 91 zapisanej w systemie szesnastkowym?",
+        "image":null,
+        "answers": [
+            "A. 10010001",
+            "B. 10001001",
+            "C. 10001011",
+            "D. 10011001"
+        ],
+        "correctAnswer":"10010001"
+    },
+    {
+        "id":82,
+        "question":"Którą bramkę logiczną opisuje wyrażenie A (+) B = Y?",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question82.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"B"
+    },
+    {
+        "id":83,
+        "question":"Na rysunku przedstawiona jest karta",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question83.png",
+        "answers": [
+            "A. kontrolera RAID",
+            "B. kontrolera SCSII",
+            "C. sieciowa Token Ring",
+            "D. sieciowa Fibre Channel"
+        ],
+        "correctAnswer":"sieciowa Fibre Channel"
+    },
+    {
+        "id":84,
+        "question":"Na rysunku przedstawiono schemat blokowy karty",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question83.png",
+        "answers": [
+            "A. sieciowej",
+            "B. graficznej",
+            "C. dźwiękowej",
+            "D. telewizyjnej"
+        ],
+        "correctAnswer":"telewizyjnej"
+    },
+    {
+        "id":85,
+        "question":"Na rysunku przedstawiono fragment dokumentacji technicznej płyty głównej GA-K8NF-9-RH rev. 2.x. Wynika z niej, że maksymalna liczba możliwych do zamontowania kart rozszerzeń (pomijając interfejs USB) wynosi",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question85.png",
+        "answers": [
+            "A. 6",
+            "B. 5",
+            "C. 3",
+            "D. 2"
+        ],
+        "correctAnswer":"6"
+    },
+    {
+        "id":86,
+        "question":"Na rysunku przedstawiono tylny panel stacji roboczej. Strzałką oznaczono port",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question86.png",
+        "answers": [
+            "A. HDMI",
+            "B. eSATA",
+            "C. USB 3.0",
+            "D. DisplayPort"
+        ],
+        "correctAnswer":"DisplayPort"
+    },
+    {
+        "id":87,
+        "question":"Na rysunku przedstawiono komunikat systemowy. Jakie działanie powinien wykonać użytkownik, aby usunąć błąd? ",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question87.png",
+        "answers": [
+            "A. Podłączyć monitor do złącza HDMI",
+            "B. Odświeżyć okno Menedżer urządzeń",
+            "C. Zainstalować sterownik do karty graficznej",
+            "D. Zainstalować sterownik do Karty HD Graphics"
+        ],
+        "correctAnswer":"Zainstalować sterownik do karty graficznej"
+    },
+    {
+        "id":88,
+        "question":"Shareware to rodzaj licencji polegającej na",
+        "image":null,
+        "answers": [
+            "A. używaniu programu bezpłatnie, bez żadnych ograniczeń",
+            "B. bezpłatnym rozprowadzaniu aplikacji bez ujawniania kodu źródłowego",
+            "C. bezpłatnym rozpowszechnianiu programu na czas testów przed zakupem",
+            "D. korzystaniu z programu przez określony czas, po którym program przestaje działać"
+        ],
+        "correctAnswer":"bezpłatnym rozpowszechnianiu programu na czas testów przed zakupem"
+    },
+    {
+        "id":89,
+        "question":"Ataki na systemy komputerowe polegające na podstępnym wyłudzaniu od użytkownika jego osobistych danych, przy wykorzystaniu zazwyczaj formy fałszywych powiadomień z instytucji czy od dostawców systemów e-płatności i innych ogólnie znanych organizacji, to ",
+        "image":null,
+        "answers": [
+            "A. DDoS",
+            "B. phishing",
+            "C. brute force",
+            "D. SYN flooding"
+        ],
+        "correctAnswer":"phishing"
+    },
+    {
+        "id":90,
+        "question":"Który z symboli oznacza zastrzeżenie praw autorskich?",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question90.png",
+        "answers": [
+            "A. A",
+            "B. B",
+            "C. C",
+            "D. D"
+        ],
+        "correctAnswer":"A"
+    },
+    {
+        "id":91,
+        "question":"Który typ fizycznej topologii sieci komputerowej przedstawiono na rysunku?",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question91.png",
+        "answers": [
+            "A. Siatki",
+            "B. Gwiazdy",
+            "C. Magistrali",
+            "D. Podwójnego pierścienia"
+        ],
+        "correctAnswer":"siatki"
+    },
+    {
+        "id":92,
+        "question":"Ile domen kolizyjnych i rozgłoszeniowych jest widocznych na schemacie?",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question92.png",
+        "answers": [
+            "A. 9 domen kolizyjnych i 1 domena rozgłoszeniowa",
+            "B. 9 domen kolizyjnych i 4 domeny rozgłoszeniowe",
+            "C. 1 domena kolizyjna i 9 domen rozgłoszeniowych",
+            "D. 4 domeny kolizyjne i 9 domen rozgłoszeniowych"
+        ],
+        "correctAnswer":"9 domen kolizyjnych i 4 domeny rozgłoszeniowe."
+    },
+    {
+        "id":93,
+        "question":"Zasady budowy systemu okablowania strukturalnego, specyfikacja parametrów kabli oraz procedury testowania obowiązujące w Polsce zostały zawarte w normach ",
+        "image":null,
+        "answers": [
+            "A. EN 50167",
+            "B. EN 50169",
+            "C. PN-EN 50173",
+            "D. PN-EN 50310"
+        ],
+        "correctAnswer":"PN-EN 50173"
+    },
+    {
+        "id":94,
+        "question":"Który adres IPv6 jest prawidłowy?",
+        "image":null,
+        "answers": [
+            "A. 1234:9ABC::123::DEF4",
+            "B. 1234:9ABC::123:DEF4",
+            "C. 1234-9ABC-123-DEF4",
+            "D. 1234.9ABC.123.DEF4"
+        ],
+        "correctAnswer":"1234:9ABC::123:DEF4"
+    },
+    {
+        "id":95,
+        "question":"Który z protokołów w systemach operacyjnych Linux wykorzystywany jest w sieciach LAN?",
+        "image":null,
+        "answers": [
+            "A. IP",
+            "B. IPX",
+            "C. NetBEUI",
+            "D. AppleTalk"
+        ],
+        "correctAnswer":"IP"
+    },
+    {
+        "id":96,
+        "question":"Przedstawione na rysunku urządzenie",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question96.png",
+        "answers": [
+            "A. służy do przechwytywania i nagrywania pakietów danych w sieciach komputerowych",
+            "B. odpowiada za przekazywanie ramki między segmentami sieci z doborem portu, na który jest przekazywana",
+            "C. umożliwia zamianę sygnału pochodzącego z okablowania miedzianego na okablowanie światłowodowe",
+            "D. odpowiada za wytworzenie na wyjściu sygnału analogowego, będącego wzmocnionym sygnałem wejściowym, kosztem zużycia energii pobieranej ze źródła prądu"
+        ],
+        "correctAnswer":"umożliwia zamianę sygnału pochodzącego z okablowania miedzianego na okablowanie światłowodowe"
+    },
+    {
+        "id":97,
+        "question":"Które urządzenie zastosowane w sieci komputerowej nie zmienia liczby domen kolizyjnych?",
+        "image":null,
+        "answers": [
+            "A. Ruter",
+            "B. Serwer",
+            "C. Przełącznik",
+            "D. Koncentrator"
+        ],
+        "correctAnswer":"Serwer"
+    },
+    {
+        "id":98,
+        "question":"Na rysunku przedstawiono zakończenie kabla",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question98.png",
+        "answers": [
+            "A. typu skrętka",
+            "B. telefonicznego",
+            "C. koncentrycznego",
+            "D. światłowodowego"
+        ],
+        "correctAnswer":"światłowodowego"
+    },
+    {
+        "id":99,
+        "question":"Przedstawione na rysunku urządzenie wraz ze specyfikacją techniczną można wykorzystać do pomiarów okablowania",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question99.png",
+        "answers": [
+            "A. telefonicznego",
+            "B. skrętki cat. 5e/6",
+            "C. koncentrycznego",
+            "D. światłowodowego"
+        ],
+        "correctAnswer":"światłowodowego"
+    },
+    {
+        "id":100,
+        "question":"Który tryb pracy Access Pointa jest stosowany dla zapewnienia urządzeniom bezprzewodowym dostępu do przewodowej sieci LAN??",
+        "image":null,
+        "answers": [
+            "A. Most bezprzewodowy",
+            "B. Punkt dostępowy",
+            "C. Tryb klienta",
+            "D. Repeater"
+        ],
+        "correctAnswer":"Punkt dostępowy"
+    },
+    {
+        "id":101,
+        "question":"Jeżeli adres IP stacji roboczej ma postać 176.16.50.10/26 to adres rozgłoszeniowy oraz maksymalna liczba hostów w sieci wynoszą odpowiednio",
+        "image":null,
+        "answers": [
+            "A. 176.16.50.1; 26 hostów",
+            "B. 176.16.50.36; 6 hostów",
+            "C. 176.16.50.63; 62 hosty",
+            "D. 176.16.50.62; 63 hosty"
+        ],
+        "correctAnswer":"176.16.50.63; 62 hosty"
+    },
+    {
+        "id":102,
+        "question":"Sieć, w której pracuje stacja robocza o adresie IP 192.168.100.50/28, podzielono na 4 podsieci. Prawidłowa lista podsieci to",
+        "image":null,
+        "answers": [
+            "A. 192.168.100.48/30; 192.168.100.52/30; 192.168.100.56/30; 192.168.100.60/30",
+            "B. 192.168.100.48/29; 192.168.100.54/29; 192.168.100.56/29; 192.168.100.58/29",
+            "C. 192.168.100.50/28; 192.168.100.52/28; 192.168.100.56/28; 192.168.100.60/28",
+            "D. 192.168.100.48/27; 192.168.100.52/27; 192.168.100.56/27; 192.168.100.58/27"
+        ],
+        "correctAnswer":"192.168.100.48/30; 192.168.100.52/30; 192.168.100.56/30; 192.168.100.60/30"
+    },
+    {
+        "id":103,
+        "question":"Na rysunku przedstawiono wynik testu okablowania. Zinterpretuj wynik pomiaru.",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question103.png",
+        "answers": [
+            "A. Błąd zwarcia",
+            "B. Błąd rozwarcia",
+            "C. Odwrócenie pary",
+            "D. Rozdzielenie pary"
+        ],
+        "correctAnswer":"Błąd zwarcia"
+    },
+    {
+        "id":104,
+        "question":"Na rysunku przedstawiono fragment wyniku działania programu do testowania sieci. Wskazuje to na zastosowanie sieciowego polecenia testującego",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question104.png",
+        "answers": [
+            "A. arp",
+            "B. route",
+            "C. tracert",
+            "D. netstat"
+        ],
+        "correctAnswer":"netstat"
+    },
+    {
+        "id":105,
+        "question":"Które z protokołów przekazują okresowe kopie tablic rutingu do sąsiedniego rutera i nie mają pełnej informacji o odległych ruterach?",
+        "image":null,
+        "answers": [
+            "A. RIP, IGRP",
+            "B. EGP, BGP",
+            "C. OSPF, RIP",
+            "D. EIGPR, OSPF"
+        ],
+        "correctAnswer":"EIGPR, OSPF"
+    },
+    {
+        "id":106,
+        "question":"Rozdzielczość optyczna to jeden z parametrów",
+        "image":null,
+        "answers": [
+            "A. skanera",
+            "B. drukarki",
+            "C. modemu",
+            "D. monitora"
+        ],
+        "correctAnswer":"skanera"
+    },
+    {
+        "id":107,
+        "question":"Na rysunku przedstawiono interfejs w komputerze przeznaczony do podłączenia",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question107.png",
+        "answers": [
+            "A. monitora LCD",
+            "B. plotera tnącego",
+            "C. drukarki laserowej",
+            "D. skanera lustrzanego"
+        ],
+        "correctAnswer":"monitora LCD"
+    },
+    {
+        "id":108,
+        "question":"Które oprogramowanie należy zainstalować, aby umożliwić zeskanowanie tekstu z wydrukowanego dokumentu do edytora tekstu?",
+        "image":null,
+        "answers": [
+            "A. Program ERP",
+            "B. Program CAD",
+            "C. Program OCR",
+            "D. Program COM+"
+        ],
+        "correctAnswer":"Program OCR"
+    },
+    {
+        "id":109,
+        "question":"Użytkownicy z grupy Pracownicy nie mogą drukować dokumentów przy użyciu serwera wydruku na systemie operacyjnym Windows Server. Mają oni przydzielone uprawnienia tylko „Zarządzanie dokumentami”. Co należy zrobić, aby rozwiązać opisany problem?",
+        "image":null,
+        "answers": [
+            "A. Dla grupy Pracownicy należy nadać uprawnienia „Drukuj”",
+            "B. Dla grupy Administratorzy należy usunąć uprawnienia „Drukuj”",
+            "C. Dla grupy Pracownicy należy usunąć uprawnienia „Zarządzanie dokumentami”",
+            "D. Dla grupy Administratorzy należy usunąć uprawnienia „Zarządzanie dokumentami”"
+        ],
+        "correctAnswer":"Dla grupy Pracownicy należy nadać uprawnienia „Drukuj”"
+    },
+    {
+        "id":110,
+        "question":"Na rysunku przedstawiającym budowę drukarki, w której nierównomiernie podawany jest toner na bęben, należy wymienić wałek magnetyczny, który jest oznaczony numerem",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question110.png",
+        "answers": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+        ],
+        "correctAnswer":"2"
+    },
+    {
+        "id":111,
+        "question":"Który protokół działa w warstwie aplikacji modelu ISO/OSI umożliwiając wymianę informacji kontrolnych pomiędzy urządzeniami sieciowymi?",
+        "image":null,
+        "answers": [
+            "A. DNS",
+            "B. POP3",
+            "C. SNMP",
+            "D. SMTP"
+        ],
+        "correctAnswer":"SNMP"
+    },
+    {
+        "id":112,
+        "question":"Na rysunku przedstawiono konfigurację urządzenia. Do których portów należy podłączyć serwer o adresie IP 192.168.20.254/24 oraz stację roboczą o adresie IP 192.168.20.10/24, aby zapewnić komunikację tych urządzeń w sieci?",
+        "image":null,
+        "answers": [
+            "A. Do portów 1 i 2",
+            "B. Do portów 2 i 3",
+            "C. Do portów 1 i 3",
+            "D. Do portów 3 i 4"
+        ],
+        "correctAnswer":"Do portów 1 i 3"
+    },
+    {
+        "id":113,
+        "question":"Na rysunku przedstawiono konfigurację urządzenia, z której wynika, że",
+        "image":null,
+        "answers": [
+            "A. utworzono dwa nowe VLAN-y: ID13, ID48",
+            "B. do VLAN z ID48 przypisano wszystkie porty",
+            "C. utworzono trzy nowe VLAN-y: ID1, ID13, ID48",
+            "D. VLAN z ID48 jest skonfigurowany jako zarządzalny"
+        ],
+        "correctAnswer":"utworzono dwa nowe VLAN-y: ID13, ID48"
+    },
+    {
+        "id":114,
+        "question":"Na rysunku przedstawiono okno konfiguracyjne rutera. Ustawione parametry świadczą o tym, że",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question114.png",
+        "answers": [
+            "A. na komputerze o adresie MAC 44-8A-5B-5A-56-D0 ustawiono adres IP 192.168.17.30 za pomocą Panelu Sterowania",
+            "B. komputer o adresie MAC 44-8A-5B-5A-56-D0 i adresie IP 192.168.17.30 nie będzie mógł połączyć się z urządzeniami tej sieci",
+            "C. komputer o adresie MAC 44-8A-5B-5A-56-D0 i adresie IP 192.168.17.30 został wykluczony z sieci",
+            "D. komputerowi o adresie MAC 44-8A-5B-5A-56-D0 usługa DHCP rutera przydzieli adres IP 192.168.17.30"
+        ],
+        "correctAnswer":"komputerowi o adresie MAC 44-8A-5B-5A-56-D0 usługa DHCP rutera przydzieli adres IP 192.168.17.30"
+    },
+    {
+        "id":115,
+        "question":"Który typ zabezpieczeń w sieci WiFi posiada najlepszy poziom zabezpieczeń?",
+        "image":null,
+        "answers": [
+            "A. WEP",
+            "B. WPA",
+            "C. WPA2",
+            "D. NTFS"
+        ],
+        "correctAnswer":"WPA2"
+    },
+    {
+        "id":116,
+        "question":"Jeżeli przy uruchamianiu komputera procedura POST zasygnalizuje błąd odczytu/zapisu pamięci CMOS, to należy?",
+        "image":null,
+        "answers": [
+            "A. przywrócić ustawienia fabryczne BIOS Setup",
+            "B. zaprogramować pamięć EEPROM płyty głównej",
+            "C. wymienić baterię układu lub wymienić płytę główną",
+            "D. wymontować moduł pamięci RAM, oczyścić styki modułu pamięci i zamontować pamięć ponownie."
+        ],
+        "correctAnswer":"wymienić baterię układu lub wymienić płytę główną"
+    },
+    {
+        "id":117,
+        "question":"Które polecenie powinien zastosować root w systemie Ubuntu Linux, aby zaktualizować wszystkie pakiety (cały system) do nowej wersji wraz z nowym jądrem?",
+        "image":null,
+        "answers": [
+            "A. apt-get update",
+            "B. apt-get upgrade",
+            "C. apt-get dist-upgrade",
+            "D. apt-get install nazwa_pakietu"
+        ],
+        "correctAnswer":"apt-get dist-upgrade"
+    },
+    {
+        "id":118,
+        "question":"Które polecenie w systemie Linux nada uprawnienia do pisania dla wszystkich obiektów w /usr/share dla wszystkich użytkowników, nie zmieniając pozostałych uprawnień?",
+        "image":null,
+        "answers": [
+            "A. chmod a-w /usr/share",
+            "B. chmod ugo+rw /usr/share",
+            "C. chmod -R a+w /usr/share",
+            "D. chmod -R o+r /usr/share "
+        ],
+        "correctAnswer":"chmod -R a+w /usr/share"
+    },
+    {
+        "id":119,
+        "question":"Udostępniono w sieci lokalnej jako udział specjalny folder o nazwie egzamin znajdujący się na komputerze o nazwie SERWER_2 w katalogu głównym dysku C:\\. Jak powinna wyglądać ścieżka dostępu do katalogu egzamin, w którym przechowywany jest folder macierzysty dla konta użytkownika o określonym loginie?",
+        "image":null,
+        "answers": [
+            "A. \\\\SERWER_2\\$egzamin\\%USERNAME%",
+            "B. \\\\SERWER_2\\$egzamin$\\%USERNAME%",
+            "C. \\\\SERWER_2\\$egzamin$\\%USERNAME%",
+            "D. \\\\SERWER_2\\$egzamin$\\%USERNAME% "
+        ],
+        "correctAnswer":"chmod -R a+w /usr/share"
+    },
+    {
+        "id":120,
+        "question":"Aby profil stał się obowiązkowym, należy zmienić rozszerzenie pliku ntuser.dat na",
+        "image":"https://daniel-rogowski.github.io/egzamin-informatyk/img/exam/question120.png",
+        "answers": [
+            "A. ntuser.sys",
+            "B. ntuser.man",
+            "C. $ntuser.bat",
+            "D. $ntuser.exe"
+        ],
+        "correctAnswer":"ntuser.man"
     }
 ]
